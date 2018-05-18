@@ -9,6 +9,9 @@
 |   9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number) |              |   204 ms    |  54.22 %  |
 |  13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) |              |    96 ms    |  74.79 %  |
 |  14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |              |    36 ms    |  46.34 %  |
+|  20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |              |    16 ms    |  99.49 %  |
+|  21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |              |    24 ms    |  95.40 %  |
+|  26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |              |    44 ms    |  50.89 %  |
 |  136  | [Single Number](https://leetcode.com/problems/single-number/) |              |    40 ms    |  45.39 %  |
 |  189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)  |              |    16 ms    | 100.00 %  |
 |  204  | [Count Primes](https://leetcode.com/problems/count-primes/)  |              |   408 ms    |  91.84 %  |
