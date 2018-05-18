@@ -15,7 +15,7 @@
  - [771. Jewels and Stones](771.%20Jewels%20and%20Stones)
  - [804. Unique Morse Code Words](804.%20Unique%20Morse%20Code%20Words)
  - [806. Number of Lines To Write String](806.%20Number%20of%20Lines%20To%20Write%20String)
- 
+ - [821. Shortest Distance to a Character](821.%20Shortest%20Distance%20to%20a%20Character)
  */
 
 

@@ -1,6 +1,7 @@
 /*:
  ### 7. Reverse Integer
- [LeetCode](https://leetcode.com/problems/reverse-integer/description/)\
+ [LeetCode](https://leetcode.com/problems/reverse-integer/description/)
+ 
  Given a 32-bit signed integer, reverse digits of an integer.
  
  **Example 1:**

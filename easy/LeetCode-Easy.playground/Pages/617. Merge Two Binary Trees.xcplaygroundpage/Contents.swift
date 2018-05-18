@@ -50,7 +50,33 @@ t2.right = {
     return t
 }()
 
-let solution = Solution().mergeTrees(t1, t2)
-print(treeValue(t2))
+//let solution = Solution().mergeTrees(t1, t2)
+//print(treeValue(t2))
+
+var arr1: [TreeNode] = [TreeNode(1)]
+let arr2: [TreeNode] = [TreeNode]()
+arr1 += arr2
+print(arr1)
+
+func trimBST(_ root: TreeNode?, _ L: Int, _ R: Int) -> TreeNode? {
+    guard root != nil else {
+        return nil
+    }
+    let copyNode = root
+    if copyNode!.val >= L && copyNode!.val <= R {
+        copyNode?.left = trimBST(copyNode?.left, L, R)
+        copyNode?.right = trimBST(copyNode?.right, L, R)
+    } else {
+        if let node = trimBST(copyNode?.right, L, R) {
+            return node
+        }
+        if let node = trimBST(copyNode?.left, L, R) {
+            return node
+        }
+        return nil
+    }
+    return copyNode
+}
+
 //: [Previous](@previous)|
 //: [Next](@next)
