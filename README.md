@@ -15,6 +15,15 @@
 |  27   | [Remove Element](https://leetcode.com/problems/remove-element/) |              |    12 ms    | 100.00 %  |
 |  28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) |              |    36 ms    |  36.11 %  |
 |  35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) |              |    16 ms    |  92.39 %  |
+|  38   | [Count and Say](https://leetcode.com/problems/count-and-say/) |              |   596 ms    |  25.40 %  |
+|  53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |              |    20 ms    |  92.17 %  |
+|  58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |              |    16 ms    |  87.50 %  |
+|  66   |     [Plus One](https://leetcode.com/problems/plus-one/)      |              |    12 ms    | 100.00 %  |
+|  67   |   [Add Binary](https://leetcode.com/problems/add-binary/)    |              |    72 ms    |  17.20 %  |
+|  69   |       [Sqrt(x)](https://leetcode.com/problems/sqrtx/)        |              |    36 ms    |  41.35 %  |
+|  70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |              |    8 ms     | 100.00 %  |
+|  83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |              |    36 ms    |  66.67 %  |
+|  88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |              |    16 ms    |  66.10 %  |
 |  136  | [Single Number](https://leetcode.com/problems/single-number/) |              |    40 ms    |  45.39 %  |
 |  189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)  |              |    16 ms    | 100.00 %  |
 |  204  | [Count Primes](https://leetcode.com/problems/count-primes/)  |              |   408 ms    |  91.84 %  |

@@ -13,18 +13,27 @@
         <page name='27. Remove Element'/>
         <page name='28. Implement strStr()'/>
         <page name='35. Search Insert Position'/>
+        <page name='38. Count and Say'/>
+        <page name='53. Maximum Subarray'/>
+        <page name='58. Length of Last Word'/>
+        <page name='66. Plus One'/>
+        <page name='67. Add Binary'/>
+        <page name='69. Sqrt(x)'/>
+        <page name='70. Climbing Stairs'/>
+        <page name='83. Remove Duplicates from Sorted List'/>
+        <page name='88. Merge Sorted Array'/>
+        <page name='136. Single Number'/>
         <page name='461. Hamming Distance'/>
+        <page name='496. Next Greater Element I'/>
+        <page name='521. Longest Uncommon Subsequence I'/>
         <page name='561. Array Partition I'/>
         <page name='617. Merge Two Binary Trees'/>
+        <page name='637. Average of Levels in Binary Tree'/>
         <page name='657. Judge Route Circle'/>
         <page name='728. Self Dividing Numbers'/>
         <page name='771. Jewels and Stones'/>
         <page name='804. Unique Morse Code Words'/>
         <page name='806. Number of Lines To Write String'/>
         <page name='821. Shortest Distance to a Character'/>
-        <page name='496. Next Greater Element I'/>
-        <page name='637. Average of Levels in Binary Tree'/>
-        <page name='136. Single Number'/>
-        <page name='521. Longest Uncommon Subsequence I'/>
     </pages>
 </playground>
