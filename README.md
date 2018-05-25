@@ -24,6 +24,9 @@
 |  70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |              |    8 ms     | 100.00 %  |
 |  83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |              |    36 ms    |  66.67 %  |
 |  88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |              |    16 ms    |  66.10 %  |
+|  100  |    [Same Tree](https://leetcode.com/problems/same-tree/)     |              |    12 ms    |  99.03 %  |
+|  101  |    [Same Tree](https://leetcode.com/problems/same-tree/)     |              |    20 ms    |  98.10 %  |
+|  125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |              |   404 ms    |  4.76 %   |
 |  136  | [Single Number](https://leetcode.com/problems/single-number/) |              |    40 ms    |  45.39 %  |
 |  189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)  |              |    16 ms    | 100.00 %  |
 |  204  | [Count Primes](https://leetcode.com/problems/count-primes/)  |              |   408 ms    |  91.84 %  |

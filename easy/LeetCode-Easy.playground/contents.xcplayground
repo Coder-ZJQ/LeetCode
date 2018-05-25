@@ -22,7 +22,10 @@
         <page name='70. Climbing Stairs'/>
         <page name='83. Remove Duplicates from Sorted List'/>
         <page name='88. Merge Sorted Array'/>
+        <page name='100. Same Tree'/>
+        <page name='101. Symmetric Tree'/>
         <page name='136. Single Number'/>
+        <page name='125. Valid Palindrome'/>
         <page name='461. Hamming Distance'/>
         <page name='496. Next Greater Element I'/>
         <page name='521. Longest Uncommon Subsequence I'/>
